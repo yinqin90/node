@@ -1,0 +1,22 @@
+{
+  "name": "anna_testpackage",
+  "version": "1.0.0",
+  "description": "test package\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Danna ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinqin90/node.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "anna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinqin90/node/issues"
+  },
+  "homepage": "https://github.com/yinqin90/node#readme"
+}
